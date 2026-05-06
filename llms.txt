@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nasseeny-leih/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Nasseeny Leih](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
