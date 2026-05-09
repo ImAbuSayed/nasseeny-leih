@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nasseeny Leih
+
+This log tracks the cryptographic history and versioning for the song **Nasseeny Leih** (nasseeny-leih).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:41:30.434441 | `v1` | `9fe5b15a6175060a26f0c28c32bac9b1b452349e940b40a80a8d30bf7fd760fc` | `8b58ad96e33e56499a197459864716c1913571994fd2cceb8bac83a5e2af1763` | `2026-05-09_nasseeny-leih-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
